@@ -1,0 +1,8 @@
+﻿Circle 0 0 1 2
+Ellipse 0 0 0 3 4 0
+Triangle 0 0 2 3 4 1
+Quadrangle 0 0 2 1 4 1 1 -1
+Trapeze 0 0 2 1 4 1 5 0
+Parallelogram 0 0 1 1 2 1 1 0
+Polygon 0 0 1 2 3 1 5 2 6 -2 3 -4
+Triangle 0 0 15 10 20 0
